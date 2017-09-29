@@ -1,4 +1,4 @@
-=== Marketplaces ===
+=== My Facebook Graph ===
 Contributors: Vishwaupesh
 Donate link: 
 Tags: Facebook Open Graph, Open Graph protocol, og:title, og:type, og:url , og:image
